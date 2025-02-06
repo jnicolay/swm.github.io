@@ -9,5 +9,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Print Hello World
-        run: echo "Hello from GitHub Actions!"
+      - name: Print Hello SWM
+        run: echo "Hello from ADA to SWM! SWiM Guide is here for you!"
